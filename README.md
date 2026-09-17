@@ -2,5 +2,5 @@
 Nama:[Azahra Ratri Ramadhani]
 
 Kesan pertama peggunaan Visual Studio Code:
-# antarmukanya terlihat profesional
-# bisa menjadi apa saja
+lumayan bingung tapi bisa bcs my friend make me understand this program
+seru kalo paham
